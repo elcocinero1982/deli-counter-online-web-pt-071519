@@ -3,3 +3,6 @@
     puts "The line is currently empty."
   
  end
+ def line(other_deli)
+   
+ end
