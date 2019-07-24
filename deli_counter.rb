@@ -16,6 +16,7 @@ def now_serving
   
   
 end
+def 
 def now_serving(katz_deli)
   
   
