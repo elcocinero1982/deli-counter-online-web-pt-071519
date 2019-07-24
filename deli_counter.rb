@@ -4,5 +4,5 @@
   
  end
  def line(other_deli)
-   
+   puts 
  end
