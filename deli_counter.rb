@@ -19,15 +19,15 @@ end
 def take_a_number(katz_deli, "Ada")
   take_a_number << "Grace, Ada"
 end
-def take_a_number(other_deli, "Grace")
+ take_a_number(other_deli, "Grace")
   
   
-end
-def take_a_number(katz_deli, "Ada")
+
+take_a_number(katz_deli, "Ada")
   
   
-  
-end
+
+
 def now_serving(katz_deli)
   
   
