@@ -12,7 +12,7 @@ end
  end
  
 def now_serving
-  puts 
+  puts "There is nobody waiting to be served!"
   
   
 end
