@@ -19,11 +19,7 @@ end
 def take_a_number(katz_deli, "Ada")
   take_a_number << "Grace, Ada"
 end
- take_a_number(other_deli, "Grace")
-  
-  
 
-take_a_number(katz_deli, "Ada")
   
   
 
