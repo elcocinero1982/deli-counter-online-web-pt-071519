@@ -17,7 +17,7 @@ def now_serving
   
 end
 def take_a_number(katz_deli, "Ada")
-  
+  take_a_number << ""
 end
 def take_a_number(other_deli, "Grace")
   
