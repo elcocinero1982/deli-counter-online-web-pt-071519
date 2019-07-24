@@ -24,6 +24,6 @@ end
 
 
 def now_serving(katz_deli)
-  now_serving << "other_deli"
+  now_serving = other_deli
   
 end
